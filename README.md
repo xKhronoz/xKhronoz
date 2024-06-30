@@ -36,10 +36,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">Stats:</h3>
 
+<details>
+  <summary>Expand</summary>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xkhronoz" alt="xkhronoz" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkhronoz&show_icons=true&locale=en&layout=compact" alt="xkhronoz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkhronoz&show_icons=true&locale=en&layout=compact" alt="xkhronoz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xkhronoz&show_icons=true&locale=en" alt="xkhronoz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xkhronoz&show_icons=true&locale=en" alt="xkhronoz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xkhronoz&" alt="xkhronoz" /></p>
+
+</details>

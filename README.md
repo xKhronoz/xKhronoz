@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 My interest are **Software Development, Networking, Cyber Security, Cloud Computing/Architecture.**
 
-- 👨‍💻 All of my projects are available at [xkhronoz.is-a.dev](xkhronoz.is-a.dev)
+- 👨‍💻 All of my projects are available at [xkhronoz.is-a.dev](https://xkhronoz.is-a.dev)
 
 - 💬 Ask me about **anything!**
 
